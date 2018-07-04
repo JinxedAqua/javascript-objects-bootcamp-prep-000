@@ -8,6 +8,6 @@ function removeFromPlaylist(playlist, artistName){
       return playlist;
   }else{
     console.log(playlist);
-  };
+  }
 
 }
